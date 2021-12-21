@@ -2,7 +2,7 @@ name: M3U8_Creator
 
 on:
   workflow_dispatch:
-  # Run 6 Hours after https://github.com/bitsbb01/iptvcat-scrapper
+  # Run 6 Hours after https://github.com/Winges4k/iptvcat-scrapper
   # 12.10 UTC Time, 06.10 Central Time
   # Changed to every 3hrs, due to including Youtube links and Pluto, so those links are always correct.
   schedule:
